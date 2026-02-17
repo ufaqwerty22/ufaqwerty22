@@ -1,10 +1,8 @@
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NjY205djlieTc4dW5xYmhpY2hyMXpmeW40dHh2a3pzY2MxdXBvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" widght=200 height=200>
-</div>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=💻ufaqwerty22👨‍💻&width=1080&height=250)](https://github.com/Akshay090/svg-banners)
 
 <h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Привет пользователь</h3>
 <h3 align="center">👩‍💻Я начинающий QA Engineer изучающий автоматизацию</h3>
-<h3 align="center">В "кратце" обо мне<h3>
+<h3 align="center">В кратце обо мне<h3>
   
 #### *Бла-бла-бла*
 
@@ -14,7 +12,7 @@
 - **🔁Обновляю знания с курса💹**
 - **✅По возможности выполняю задачи на [Codewars](https://www.codewars.com/users/milena_yu)✅**
 
----
+
 ### 🔧Языки и инструменты🔨  
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
@@ -63,7 +61,7 @@ my_project/
 ├── conftest.py
 └── requirements.txt
 ```
-
+https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
 <div align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/eff7192866a549c703ba355b50a4481cee9e8ed7dc7b0a234965497f89dccaa8.gif" title="meme" widght=150 height=150>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height=40>
 </div>
