@@ -1,17 +1,16 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=💻ufaqwerty22👨‍💻&width=1080&height=250)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=💻ufaqwerty22👩‍💻&width=1080&height=250)](https://github.com/Akshay090/svg-banners)
 
 <h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Привет пользователь</h3>
-<h3 align="center">👩‍💻Я начинающий QA Engineer изучающий автоматизацию</h3>
+<h3 align="center">Я начинающий QA Engineer изучающий автоматизацию</h3>
 <h3 align="center">В кратце обо мне<h3>
   
-#### *Бла-бла-бла*
+#### *Меня зовут Милена, мне 21 год, я интересуюсь IT. В начале 2026 года очно прошла курс на тестировщика который длился год. На курсе я получила немалое количество знаний и умений, начиная написанием тест-кейсов и баг-репортов заканчивая написанием автотестов на Python используя популярные библиотеки для автоматизации, а именно - Playwright и Selenium. Маленькими шагами пополоняю свой багаж знаний, как никак учиться в этой сфере немаловажно.*
 
 **На данный момент я 👇**
 - **🤖Продолжаю изучать автоматизацю на Python🐍**
 - **✍Разрабатываю pet-проекты по тестированию🐱**
 - **🔁Обновляю знания с курса💹**
 - **✅По возможности выполняю задачи на [Codewars](https://www.codewars.com/users/milena_yu)✅**
-
 
 ### 🔧Языки и инструменты🔨  
 
@@ -36,6 +35,8 @@
 [![VK](https://img.shields.io/badge/-Vk-000000?style=for-the-badge&logo=vk&logoColor=2965f1)](https://vk.com/khinkalina69)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2965f1)](https://t.me/markdew)
 [![Mail](https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=mail&logoColor=2965f1)](mailto:qaengineermilena@gmail.com)
+
+---
 
 ```
 my_project/
