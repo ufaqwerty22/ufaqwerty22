@@ -29,11 +29,11 @@
 ![Jmeter](https://img.shields.io/badge/-Jmeter-000000?style=for-the-badge&logo=apachejmeter)
 ![Bruno](https://img.shields.io/badge/-Bruno-000000?style=for-the-badge&logo=bruno)
 
-### Баг-трекинговые системы и системы для работы с тест-кейсами
+### Работа с тестовой документацией
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=2684ff)
 ![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=testrail)
 
-### СУЬД 
+### СУБД 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 
 ### Терминал
