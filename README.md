@@ -29,6 +29,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css&logoColor=2965f1)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash)
+![Bruno](https://img.shields.io/badge/-Bruno-000000?style=for-the-badge&logo=bruno)
 
 ### 📥Как связаться со мной✉
 
