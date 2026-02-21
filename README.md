@@ -12,24 +12,35 @@
 - **🔁Обновляю знания с курса💹**
 - **✅По возможности выполняю задачи на [Codewars](https://www.codewars.com/users/milena_yu)✅**
 
-### 🔧Языки и инструменты🔨  
+### 🔧Инструменты🔨  
 
+### Языки и библиотеки
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-![Requests](https://img.shields.io/badge/-Requests-000000?style=for-the-badge&logo=requests)
-![Dotenv](https://img.shields.io/badge/-Dotenv-000000?style=for-the-badge&logo=dotenv)
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=#00b400)
+![Requests](https://img.shields.io/badge/-Requests-000000?style=for-the-badge&logo=requests)
+![Dotenv](https://img.shields.io/badge/-Dotenv-000000?style=for-the-badge&logo=dotenv)
 ![Allure](https://img.shields.io/badge/-Allure-000000?style=for-the-badge&logo=allure)
+
+### Тестирование API
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-000000?style=for-the-badge&logo=apachejmeter)
+![Bruno](https://img.shields.io/badge/-Bruno-000000?style=for-the-badge&logo=bruno)
+
+### Баг-трекинговые системы и системы для работы с тест-кейсами
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=2684ff)
 ![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=testrail)
+
+### СУЬД 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+
+### Терминал
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash)
+
+### Верстка
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css&logoColor=2965f1)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash)
-![Bruno](https://img.shields.io/badge/-Bruno-000000?style=for-the-badge&logo=bruno)
 
 ### 📥Как связаться со мной✉
 
