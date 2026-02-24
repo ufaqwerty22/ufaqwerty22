@@ -26,6 +26,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-000000?style=for-the-badge&logo=apachejmeter)
 ![Bruno](https://img.shields.io/badge/-Bruno-000000?style=for-the-badge&logo=bruno)
+![Charles](https://img.shields.io/badge/-Charles-000000?style=for-the-badge&logo=charles&logoColor=2965f1)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=2684ff)
 ![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=testrail)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
