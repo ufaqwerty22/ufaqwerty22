@@ -15,7 +15,7 @@
 
 ---
 
-### 🔧Инструменты🔨  
+### 🔧Языки и инструменты🔨  
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge)
