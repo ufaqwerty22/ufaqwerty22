@@ -35,7 +35,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css&logoColor=2965f1)
 
-### Выполненные проекты
+### Проекты
 
 - [Командный проект с автотестами для сайта Купи слона](https://github.com/testersqa/kupi_slona_autotests)
 - [Мой первый пет-проект](https://github.com/ufaqwerty22/Qa_stand_test)
