@@ -36,7 +36,7 @@
 
 ### Выполненные проекты
 
-[Командный проект с автотестами для сайта Купи слона](https://github.com/testersqa/kupi_slona_autotests)
+- [Командный проект с автотестами для сайта Купи слона](https://github.com/testersqa/kupi_slona_autotests)
 
 ---
 
