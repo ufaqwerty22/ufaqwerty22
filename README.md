@@ -17,7 +17,7 @@
 
 ### 🔧Инструменты🔨  
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)  
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=#00b400)
 ![Requests](https://img.shields.io/badge/-Requests-000000?style=for-the-badge&logo=requests)
