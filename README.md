@@ -45,7 +45,7 @@
 
 [![VK](https://img.shields.io/badge/-Vk-000000?style=for-the-badge&logo=vk&logoColor=2965f1)](https://vk.com/khinkalina69)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2965f1)](https://t.me/markdew)
-[![Mail](https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=mail&logoColor=2965f1)](mailto:qaengineermilena@gmail.com)
+[![GMail](https://img.shields.io/badge/-GMail-000000?style=for-the-badge&logo=gmail&logoColor=2965f1)](mailto:qaengineermilena@gmail.com)
 
 ```
 my_project/
