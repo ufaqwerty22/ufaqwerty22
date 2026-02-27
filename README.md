@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=💻ufaqwerty22👩‍💻&width=1080&height=250)](https://github.com/Akshay090/svg-banners)
 
-<h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Привет пользователь. Я начинающий QA Engineer изучающий автоматизацию</h3>
+<h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Я начинающий QA Engineer изучающий автоматизацию</h3>
 <h3 align="center">В кратце обо мне</h3>
   
 #### *Меня зовут Милена, мне 21 год, я активно интересуюсь IT сферой. В начале 2026 года очно прошла курс на тестировщика который длился год. На этом курсе меня научили много чему - начиная написанием тест-кейсов и баг-репортов, заканчивая разработкой автотестов на Python используя Playwright и Selenium. Помимо самого курса я маленькими шагами пополоняю свой багаж знаний и учусь чему-то новому, как-никак учиться в этой сфере немаловажно.*
