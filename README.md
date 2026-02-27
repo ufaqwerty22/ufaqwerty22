@@ -11,8 +11,6 @@
 - **Обновляю знания с курса🔁**
 - **По возможности выполняю задачи на [Codewars](https://www.codewars.com/users/milena_yu)✅**
 
----
-
 ### 🔧Языки и инструменты🔨  
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
@@ -37,8 +35,6 @@
 
 - [Командный проект с автотестами для сайта Купи слона](https://github.com/testersqa/kupi_slona_autotests)
 - [Мой первый пет-проект](https://github.com/ufaqwerty22/Qa_stand_test)
-
----
 
 ### 📥Как связаться со мной✉
 
