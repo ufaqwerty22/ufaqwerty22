@@ -61,6 +61,10 @@ my_project/
 │   ├── button_control.py
 │   ├── drop_down_control.py
 │   └── input_control.py
+│
+├── tests/
+│   ├── test_login_page.py
+│   └── test_valid_auth.py
 │   
 ├── .env
 ├── conftest.py
