@@ -35,6 +35,7 @@
 
 - [Командный проект с автотестами для сайта Купи слона](https://github.com/testersqa/kupi_slona_autotests)
 - [Мой первый пет-проект](https://github.com/ufaqwerty22/Qa_stand_test)
+- [Моя дипломная работа](https://github.com/ufaqwerty22/diplom)
 
 ### 📥Как связаться со мной✉
 
