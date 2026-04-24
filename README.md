@@ -2,12 +2,6 @@
 
 <h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Я начинающий QA Engineer изучающий автоматизацию</h3>
 
-### **На данный момент я 👇**
-- **Продолжаю изучать автоматизацию на Python🐍**
-- **Разрабатываю pet-проекты по тестированию✍**
-- **Обновляю знания с курса🔁**
-- **По возможности выполняю задачи на [Codewars](https://www.codewars.com/users/milena_yu)✅**
-
 ### 🔧Языки и инструменты🔨  
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
@@ -27,6 +21,12 @@
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash)
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css&logoColor=2965f1)
+
+### **На данный момент я 👇**
+- **Продолжаю изучать автоматизацию на Python🐍**
+- **Разрабатываю pet-проекты по тестированию✍**
+- **Обновляю знания с курса🔁**
+- **По возможности выполняю задачи на [Codewars](https://www.codewars.com/users/milena_yu)✅**
 
 ### Проекты
 
